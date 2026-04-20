@@ -1,1 +1,2 @@
-there is an mental asylum out in the woods, on the surface stands a big buil
+there is an mental asylum out in the woods, on the surface stands a big building,  but inside its everything but normal.
+there are 2 levels, on the first level its a normal mental asylum where people w
