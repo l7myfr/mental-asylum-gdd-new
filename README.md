@@ -1,1 +1,0 @@
-# mental-asylum-gdd-new
