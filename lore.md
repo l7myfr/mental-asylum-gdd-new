@@ -1,1 +1,1 @@
-oh my god so much lore wowwww
+there is an mental asylum out in the woods, on the surface stands a big buil
