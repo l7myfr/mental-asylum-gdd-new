@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game.md",
+                "file": "lore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "game"
+              "title": "lore"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "game.md",
+            "file": "lore.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,8 +171,8 @@
   },
   "active": "b006ec817796a707",
   "lastOpenFiles": [
-    "lore.md",
     "game.md",
+    "lore.md",
     "Untitled"
   ]
 }
