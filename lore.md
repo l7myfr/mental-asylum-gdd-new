@@ -9,5 +9,5 @@ recordings:
 
 "subject t-3 has been an absolute disaster. after the injection it went into deep slumber for 3 days, causing us to drop our guard. last night it escaped, we aren't sure on where it is but the whole place has been put on high alert."
 
-"subject t-4 went worst than subject t-3 and t-2, after the injection subject t-"
+"subject t-4 went worse than subject t-3 and t-2, after the injection subject t-4 had a seizure,  believed to be caused by the injection,  died shortly after."
 
