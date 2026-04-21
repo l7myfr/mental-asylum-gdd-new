@@ -13,3 +13,4 @@ recordings:
 
 "it has been a while, the operations were almost revealed after a spy infiltrated our base of operations. we have been keeping low. subject t-5, subject t-6, subject t-7 and subject t-7 have shown almost no side effects,  they are able to manipulate atoms and distort time on a small scale. the injection is close to completion"
 
+"subject t-3 attacked last night, as we were operating on subject t"
