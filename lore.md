@@ -7,5 +7,7 @@ recordings:
 
 "subject t-2 has shown excellent result but at a cost. its intelligent drops rapidly after the injection and becomes brain dead"
 
-"subject t-3 
+"subject t-3 has been an absolute disaster. after the injection it went into deep slumber for 3 days, causing us to drop our guard. last night it escaped, we aren't sure on where it is but the whole place has been put on high alert."
+
+
 
