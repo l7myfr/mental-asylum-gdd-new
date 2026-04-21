@@ -15,4 +15,4 @@ recordings:
 
 "subject t-3 attacked last night, as we were operating on subject t-8. it had multipled. it was a disaster. it wiped out  almost all of us, only a few of us remain. we aren't sure on what we are going to do now, we are stuck here."
 
-"it has been 3 days. I feel like "
+"it has been 3 days. I feel like im going crazy, I have been seeing things. im not sure how long we are going to survive here. i feel like we are constantly being watched from the dark. we can only hope help is coming."
