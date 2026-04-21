@@ -11,4 +11,4 @@ recordings:
 
 "subject t-4 went worse than subject t-3 and t-2, after the injection subject t-4 had a seizure,  believed to be caused by the injection,  died shortly after."
 
-"it has been a while, the operations were almost revealed after a spy infiltrated our base of operations. we have been keeping low. "
+"it has been a while, the operations were almost revealed after a spy infiltrated our base of operations. we have been keeping low. subject t-5, subject t-6, subject t-7 and subject t-7 have shown almost no side effects,  they are able to manipulate atoms in the fourth d"
