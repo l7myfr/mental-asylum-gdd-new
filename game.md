@@ -1,1 +1,1 @@
-hey hru lol
+the map will be procedurally generated
