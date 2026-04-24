@@ -1,1 +1,1 @@
-hey hru lol
+hey hru lol[]()
