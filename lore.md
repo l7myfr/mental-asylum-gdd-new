@@ -18,3 +18,6 @@ recordings:
 "it has been 3 days. I feel like im going crazy, I have been seeing things. im not sure how long we are going to survive here. i feel like we are constantly being watched from the dark. we can only hope help is coming."
 
 "its been 4 days, we are starved. dehydrated.  some of us have gone crazy... 4 days of nothing but darkness.  I had time to think. time to process stuff.  subject t-3 escaping is no incid-  whats going o- cuts out as loud banging can be heard"
+
+
+the asylum is cursed, there is some kind of supernatural controlling it, its unclear if t-3 is connected but one thing we know for sure is that the asylum changes everytime its visited 
