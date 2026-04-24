@@ -20,4 +20,4 @@ recordings:
 "its been 4 days, we are starved. dehydrated.  some of us have gone crazy... 4 days of nothing but darkness.  I had time to think. time to process stuff.  subject t-3 escaping is no incid-  whats going o- cuts out as loud banging can be heard"
 
 
-the asylum is cursed, there is some kind of supernatural controlling it, its unclear if t-3 is connected but one thing we know for sure is that the asylum changes everytime its visited 
+the asylum is cursed, there is some kind of supernatural controlling it, its unclear if t-3 is connected but one thing we know for sure is that the asylum changes everytime its visited. the rooms are weird, they are mysterious, its like they know they are being explored, they change time to time... its almost like they are alive..
