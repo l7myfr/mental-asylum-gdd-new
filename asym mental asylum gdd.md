@@ -14,5 +14,6 @@ effects:
 
 killers:
   patient zero: 
-    • 
+    • Nullification: killer can go invisible for 10 seconds and back to visible at will
+      
 survivors:
