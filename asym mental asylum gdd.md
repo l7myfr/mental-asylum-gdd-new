@@ -18,5 +18,10 @@ killers:
       when going invisible or visible the player can not move
      • Contagion Mark: hitting a survivor applies a mark that briefly reveals their outline through walls for 4 seconds
      • Sense: upon activation for 5 seconds anybody within 70 studs
-     player gets stunned when activating 
+     player gets stunned when activating the power
 survivors:
+
+
+
+idea spam:
+some kind of ability that is passed one to another via close contact for example: a trap akiller can setup and it 
