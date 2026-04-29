@@ -14,5 +14,5 @@ effects:
 
 killers:
 1) patient zero: 
-      1
+    
 survivors:
