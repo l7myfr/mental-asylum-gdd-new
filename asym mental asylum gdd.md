@@ -13,5 +13,6 @@ effects:
 3) speed reduction
 
 killers:
-
+1) patient zero: 
+      1
 survivors:
