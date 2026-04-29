@@ -7,11 +7,15 @@ the players have a Sanity bar that does the following:
 4) sanity bar drains when in close contact with the killer, can also be drained with an effect
 
 
+effects: 
+1) sanity drain
+2) 
+
 killers: 
 ## **The Orderly**
 - **“Rush” (engage)** – Fast, hard-to-control sprint
 - **“Impact” (chase)** – Hitting a survivor gives a short speed boost
 - **“Pulse” (pressure)** – Small AoE sanity burst around self
-- **Passive:** Low-sanity survivors have worse movement recovery
+- **Passive:** killing a player give a short speed efe
 
 survivors:
