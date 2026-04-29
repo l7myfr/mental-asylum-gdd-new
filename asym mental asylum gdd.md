@@ -16,7 +16,7 @@ killers:
   patient zero: 
     • Nullification: killer can go invisible for 10 seconds and back to visible at will
       when going invisible or visible the player can not move
-      anybody within 
+      anybody within 10 stud radius gets their sanity drained and slowness 1
      • Contagion Mark: hitting a survivor applies a mark that briefly reveals their outline through walls for 4 seconds
      • Sense: upon activation for 5 seconds anybody within 70 studs
      player gets stunned when activating the power
