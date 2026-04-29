@@ -15,5 +15,7 @@ effects:
 killers:
   patient zero: 
     • Nullification: killer can go invisible for 10 seconds and back to visible at will
-      when going invisible or visible 
+      when going invisible or visible the player can not move
+     • Contagion Mark: hitting a survivor applies a mark that briefly reveals their outline through walls for 4 seconds
+     • Viral Sense: when within 18 meters of a survivor, their heartbeat indicator becomes visible even through obstacles
 survivors:
