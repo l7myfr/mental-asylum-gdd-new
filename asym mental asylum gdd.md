@@ -5,7 +5,7 @@ the players have a Sanity bar that does the following:
 2)   when the sanity bar gets too low the players vision is shortened 
 3) when the sanity bar gets too low false sounds of a player being killed is played (which is also reflected on UI) and this is reverted when sanity bar goes up
 4) sanity bar drains when in close contact with the killer, can also be drained with an effect
-
+5) when sanity bar reaches <10
 
 killers: 
 
