@@ -23,7 +23,8 @@ killers:
      
 survivors:
    security guard:
-      • can place a detector for when a killer walks past it the killer gets slowness 2 for 5 seconds and is revealed to security guard for 10 seconds. detector gets destro
+      • can place a detector for when a killer walks past it the killer gets slowness 2 for 5 seconds and is revealed to security guard for 10 seconds. detector gets destroyed when used, multiple detectors are not allowed
+      •  
       
 
 
