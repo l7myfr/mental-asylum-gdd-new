@@ -22,7 +22,8 @@ killers:
      player gets stunned when activating the power
      
 survivors:
-
+   security guard:
+      
 
 
 idea spam:
