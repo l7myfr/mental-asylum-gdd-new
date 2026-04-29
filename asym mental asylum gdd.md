@@ -9,13 +9,9 @@ the players have a Sanity bar that does the following:
 
 effects: 
 1) sanity drain
-2) 
+2) speed boost
+3) speed reduction
 
-killers: 
-## **The Orderly**
-- **“Rush” (engage)** – Fast, hard-to-control sprint
-- **“Impact” (chase)** – Hitting a survivor gives a short speed boost
-- **“Pulse” (pressure)** – Small AoE sanity burst around self
-- **Passive:** killing a player give a short speed efe
+killers:
 
 survivors:
