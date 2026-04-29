@@ -9,10 +9,9 @@ the players have a Sanity bar that does the following:
 
 killers: 
 ## **The Orderly**
-
-- **“Restrain”** – Short lunge that briefly slows a survivor if it hits
-- **“Focus”** – Reveals the nearest low-sanity survivor for a few seconds
-- **“Presence”** – Standing near survivors drains sanity faster
-- **Passive:** Survivors below a sanity threshold leave clearer tracks
+- **“Rush” (engage)** – Fast, hard-to-control sprint
+- **“Impact” (chase)** – Hitting a survivor gives a short speed boost
+- **“Pulse” (pressure)** – Small AoE sanity burst around self
+- **Passive:** Low-sanity survivors have worse movement recovery
 
 survivors:
