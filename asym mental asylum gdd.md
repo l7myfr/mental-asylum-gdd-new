@@ -24,7 +24,7 @@ killers:
    hey: 
     • main melee item for this character will be a broken bottle 
     • ability 1:  player swings the broken bottle and and if somebody is caught with it a animation will continue or else a fail animation will play
-     • ability 2:  the character runs forward with the bottle positioned infront of him, character 
+     • ability 2:  the character runs forward with the bottle positioned infront of him, if somebody is hit  
      • ability 3:
      
 survivors:
