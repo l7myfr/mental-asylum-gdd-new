@@ -21,7 +21,7 @@ patient zero:
       hit animation: after the right to left swing lands on a character the character does a swing from left to right and then stabs the player in the chest and knocks the player away with his leg
 
    animation:  Contagion Mark
-     the character gets into a position which takes around 0.5-1.5 seconds, the character holds the broken bottle infront of him and starts rushing, and then stops
+     the character gets into a position which takes around 0.5-1.5 seconds, the character holds the broken bottle infront of him and starts rushing which lasts around 3.5 seconds and then stops.
 
    animation: Sense
     the character kind of goes numb and concentrates
