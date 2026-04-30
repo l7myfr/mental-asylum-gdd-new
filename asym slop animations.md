@@ -21,8 +21,7 @@ patient zero:
       hit animation: after the right to left swing lands on a character the character does a swing from left to right and then stabs the player in the chest and knocks the player away with his leg
 
    animation:  Contagion Mark
-    the character leans forward puts both hands together infront and rips "space and time apart" add some kind of struggle to show that the character is struggling to rip it apart
-    max: 5 seconds. as short as possible
+     the character gets into a position wh
 
    animation: Sense
     the character kind of goes numb and concentrates
