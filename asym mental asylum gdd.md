@@ -23,7 +23,7 @@ killers:
      player gets stunned when activating the power
    hey: 
     • main melee item for this character will be a broken bottle 
-    • hokey pokey:  
+    • hokey pokey:  player swings the broken bottle and 
      • Contagion Mark: 
      • Sense:
      
