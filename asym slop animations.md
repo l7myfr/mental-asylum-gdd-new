@@ -7,8 +7,7 @@ patient zero:
     both phase need to be 3 seconds if possible. as short as possible
 
    animation:  Contagion Mark
-    the character leans forward puts both hands together infront and rips "space and time apart" add some kind of struggle to show that the character is struggling to rip it apart
-    max: 5 seconds. as short as possible
+    the character leans slashes the air with the saw blade
 
    animation: Sense
     the character kind of goes numb and concentrates

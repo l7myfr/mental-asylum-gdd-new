@@ -14,7 +14,7 @@ effects:
 4) blindness
 killers:
   patient zero: 
-    • main melee item for this character will be idk
+    • main melee item for this character will saw blade
     • Nullification: killer can go invisible for 10 seconds and back to visible at will
       when going invisible or visible the player can not move
       anybody within 10 stud radius gets their sanity drained a bit depending on distance
