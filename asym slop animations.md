@@ -1,17 +1,30 @@
 patient zero:
    animation: Nullification phase 1 
-  the body parts fall apart and fall under the ground 
+    the body parts fall apart and fall under the ground 
 
    animation: Nullification phase 2
- the body parts come back up from the ground and reconstruct ( some kind of recoil to showw that body part that are snapping back have force and mass) 
+    the body parts come back up from the ground and reconstruct ( some kind of recoil to showw that body part that are snapping back have force and mass) 
+    both phase need to be 3 seconds if possible. as short as possible
 
-   both phase need to be 3 seconds if possible. as short as possible
+   animation:  Contagion Mark
+    the character leans forward puts both hands together infront and rips "space and time apart" add some kind of struggle to show that the character is struggling to rip it apart
+    max: 5 seconds. as short as possible
 
-animation:  Contagion Mark
- the character leans forward puts both hands together infront and rips "space and time apart" add some kind of struggle to show that the character is struggling to rip it apart
-max: 5 seconds. as short as possible
-
- animation: Sense
-  the character kind of goes numb and concentrates
+   animation: Sense
+    the character kind of goes numb and concentrates
 
 
+patient zero:
+   animation: Nullification phase 1 
+      swings the bottles and if some
+
+   animation: Nullification phase 2
+    the body parts come back up from the ground and reconstruct ( some kind of recoil to showw that body part that are snapping back have force and mass) 
+    both phase need to be 3 seconds if possible. as short as possible
+
+   animation:  Contagion Mark
+    the character leans forward puts both hands together infront and rips "space and time apart" add some kind of struggle to show that the character is struggling to rip it apart
+    max: 5 seconds. as short as possible
+
+   animation: Sense
+    the character kind of goes numb and concentrates
