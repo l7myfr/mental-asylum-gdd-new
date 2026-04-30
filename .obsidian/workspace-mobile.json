@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game.md",
+                "file": "asym mental asylum gdd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "game"
+              "title": "asym mental asylum gdd"
             }
           }
         ]
@@ -171,8 +171,12 @@
   },
   "active": "b006ec817796a707",
   "lastOpenFiles": [
-    "lore.md",
     "game.md",
+    "asym mental asylum gdd.md",
+    "/lore.md",
+    "/game.md",
+    "/asym mental asylum gdd.md",
+    "lore.md",
     "Untitled"
   ]
 }
