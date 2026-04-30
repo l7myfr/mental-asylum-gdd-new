@@ -24,8 +24,8 @@ killers:
    hey: 
     • main melee item for this character will be a broken bottle 
     • ability 1:  player swings the broken bottle and and if somebody is caught with it a animation will continue or else a fail animation will play
-     • ability 1: 
-     • ability 2:
+     • ability 2: 
+     • ability 3:
      
 survivors:
    security personnel:
