@@ -20,6 +20,14 @@ killers:
      • Contagion Mark: hitting a survivor applies blindness 2 for 5 seconds and slowness 1 for 3 seconds and damages the player
      • Sense: upon activation for 5 seconds anybody within 70 studs
      player gets stunned when activating the power
+   hey: 
+    • mai 
+    • Nullification: killer can go invisible for 10 seconds and back to visible at will
+      when going invisible or visible the player can not move
+      anybody within 10 stud radius gets their sanity drained a bit depending on distance
+     • Contagion Mark: hitting a survivor applies blindness 2 for 5 seconds and slowness 1 for 3 seconds and damages the player
+     • Sense: upon activation for 5 seconds anybody within 70 studs
+     player gets stunned when activating the power
      
 survivors:
    security personnel:
