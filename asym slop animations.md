@@ -1,3 +1,5 @@
+
+
 patient zero:
    animation: Nullification phase 1 
     the body parts fall apart and fall under the ground 
@@ -10,7 +12,8 @@ patient zero:
     the character raises right arm up and slashes the air with the saw blade from right to left diagonally, after that slash, the character raises the right hand on the left side and slashes from left to right and then goes to idle 
 
    animation: Sense
-    the character kind of goes numb and concentrates
+    the character kind of goes numb and concentrates for around 1-3 seconds
+
 
 
 patient zero:
@@ -24,3 +27,12 @@ patient zero:
 
    animation: Sense
     the character kind of goes numb and concentrates
+
+
+
+
+2 m1's (both are streched out, dont make it like the normal battleground m1s which are fast, make these heavy)
+
+walk forward, walk back
+sprint forward, sprint back
+idle
