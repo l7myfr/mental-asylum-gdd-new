@@ -16,7 +16,9 @@ patient zero:
 
 patient zero:
    animation: Nullification phase 1 
-      swings the bottles and if some
+      swings the bottles and if some it misses a miss animation plays, if it hits a player a hit animation plays.
+      miss animation: after the missing character goes back into idle and twirls the bottle
+      
 
    animation: Nullification phase 2
     the body parts come back up from the ground and reconstruct ( some kind of recoil to showw that body part that are snapping back have force and mass) 
