@@ -14,12 +14,18 @@ effects:
 4) blindness
 killers:
   patient zero: 
+    • main melee item for this character will saw blade
     • Nullification: killer can go invisible for 10 seconds and back to visible at will
       when going invisible or visible the player can not move
       anybody within 10 stud radius gets their sanity drained a bit depending on distance
      • Contagion Mark: hitting a survivor applies blindness 2 for 5 seconds and slowness 1 for 3 seconds and damages the player
      • Sense: upon activation for 5 seconds anybody within 70 studs
      player gets stunned when activating the power
+   hey: 
+    • main melee item for this character will be a broken bottle 
+    • ability 1:  player swings the broken bottle and and if somebody is caught with it a animation will continue or else a fail animation will play
+     • ability 2:  the character runs forward with the bottle positioned infront of him, if somebody is hit sprinting stops. the longer the rush slower the character turns. if he misses everyone blindness 2 is applied
+     • ability 3:
      
 survivors:
    security personnel:
