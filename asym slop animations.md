@@ -7,7 +7,7 @@ patient zero:
     both phase need to be 3 seconds if possible. as short as possible
 
    animation:  Contagion Mark
-    the character raises right arm up and slashes the air with the saw blade from right to left diagonally, after that slash, the character raises the right hand on the left side and slashes from left
+    the character raises right arm up and slashes the air with the saw blade from right to left diagonally, after that slash, the character raises the right hand on the left side and slashes from left to right and then goes to idle 
 
    animation: Sense
     the character kind of goes numb and concentrates
