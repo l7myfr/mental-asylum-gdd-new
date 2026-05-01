@@ -30,7 +30,7 @@ killers:
 
    y: 
     • main melee item for this character will be a saw blade attached to his arm
-    • ability 1:   
+    • ability 1:  if you hold down the ability the player enters a stance and when release player starts 
      • ability 2:  
      • ability 3:
 survivors:
