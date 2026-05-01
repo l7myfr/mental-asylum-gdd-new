@@ -32,15 +32,17 @@ patient zero:
 chainsaw dawg:
    animation: Rev Charge Phase 1
       the character enters a stance in which he revs his saw blade while holding his right hand,
-      (make an idle animation aswell)
+      (make an idle animation aswell) make sure the saw is spinning
    animation: Rev Charge Phase 2
-      the character runs forward with the saw blade infront of him which lasts 3-4 seconds
+      the character runs forward with the saw blade infront of him which lasts 3-4 seconds 
+      make sure the saw is spinning
    animation: Rev Charge Phase 3
       the character stops running and enters the default idle animation 
-   
+      make sure the saw stops spinning
    animation: Blood Trails
       the character moves his hand up to his face and sniffs it and then enter back into the default idle
-
+      make sure the saw isnt spinning
+      
  animation: Overdrive
       the character holds his hand which starts 
 
