@@ -31,8 +31,12 @@ patient zero:
 
 chainsaw dawg:
    animation: Rev Charge Phase 1
-      the character enters a stance in which he revs his 
-
+      the character enters a stance in which he revs his saw blade while holding his right hand,
+      (make an idle animation aswell)
+   animation: Rev Charge Phase 2
+      the character runs forward with the saw blade infront of him which lasts 
+   
+      
    animation:  Contagion Mark
      the character gets into a position which takes around 0.5-1.5 seconds, the character holds the broken bottle infront of him and starts rushing which lasts around 3.5 seconds and then stops.
 
