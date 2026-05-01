@@ -38,7 +38,8 @@ chainsaw dawg:
    animation: Rev Charge Phase 3
       the character stops running and enters the default idle animation 
    
-    
+   animation: Blood Trails
+      the character moves his hand up to his face and sniffs 
 
 
 2 m1's (both are streched out, dont make it like the normal battleground m1s which are fast, make these heavy)
