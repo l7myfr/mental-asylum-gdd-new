@@ -56,8 +56,10 @@ chainsaw dawg:
      the character is hunched forward while walking. make the shoulders uneven to convey that the saw blade is heavy, the steps are heavy when walking
 
  animation: sprinting forward (strafe not needed, and back not needed)
-     the character is hunched forward while sprinting. make the right shoulder (where the saw blade is) swing less than the left shoulder, the steps are heavy when sprinti
-
+     the character is hunched forward while sprinting. make the right shoulder (where the saw blade is) swing less than the left shoulder, the steps are heavy when sprinting
+     
+animation: finisher
+     the finisher continues from the m1 after the slash is completed
 
      
 
