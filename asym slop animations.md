@@ -50,7 +50,11 @@ chainsaw dawg:
 	the character is hunched forward like he is ready to lunge, the saw blade starts is stopped and sometimes abruptly starts spinning 
 	
   animation: m1 (a single m1)
-     the charcter slashes the saw blade from right to left with a diagonal slash, make it so at the end it kind of follows tru to convey that its heavy
+     the charcter slashes the saw blade from right to left with a diagonal slash, make it so at the end it kind of follows tru to convey that its heavy, make sure the saw is spinning
+    
+   animation: walk forward and back (strafe not needed)
+     the character is hunched forward while wwalk
+     
 
 walk forward, walk back
 sprint forward, sprint back
