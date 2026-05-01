@@ -30,7 +30,7 @@ killers:
 
    y: 
     • main melee item for this character will be a saw blade attached to his arm
-    • ability 1:  if you hold down the ability the player enters a stance and when release player starts 
+    • ability 1:  if you hold down the ability the player enters a stance and when release player starts rushing forward, the longer you press down more damage the rush does, max: 5 second hold
      • ability 2:  
      • ability 3:
 survivors:
@@ -45,3 +45,6 @@ idea spam:
 some kind of ability that is passed one to another via close contact for example: a trap akiller can setup and if a survivor steps on it and goes close to another player it wwill be passed, every tagged player is revealed briefly.
 
 can take a picture with a camera and then teleport to that position
+
+• ability 1:  if you hold down the ability the player enters a stance and when release player starts rushing forward, the longer you press down more damage the rush does, max: 5 second hold
+ui idea: a bar in which a chainsaw rans tru
