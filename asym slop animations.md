@@ -47,7 +47,7 @@ chainsaw dawg:
       the character holds his hand which starts spinning extremely fast, make this intense and then there is a burst where the character does a stance and goes back to normal (i will provide pic)
   
   animation: Idle
-     
+	     the character is hunched forward like he is ready to lunge, the saw blade starts is stopped and sometimes abruapty 
 
 2 m1's (both are streched out, dont make it like the normal battleground m1s which are fast, make these heavy)
 
