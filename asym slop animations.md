@@ -44,7 +44,7 @@ chainsaw dawg:
       make sure the saw isnt spinning
       
  animation: Overdrive
-      the character holds his hand which starts 
+      the character holds his hand which starts spinning extremely fast, make this intense and then there is a burst where the 
 
 
 2 m1's (both are streched out, dont make it like the normal battleground m1s which are fast, make these heavy)
