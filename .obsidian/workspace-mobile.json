@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asym mental asylum gdd.md",
+                "file": "lore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "asym mental asylum gdd"
+              "title": "lore"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "b006ec817796a707",
   "lastOpenFiles": [
+    "asym mental asylum gdd.md",
     "references/map 1.canvas",
     "/references/map 1.canvas",
     "references",
@@ -179,7 +180,6 @@
     "/asym slop animations.md",
     "/asym mental asylum gdd.md",
     "game.md",
-    "asym mental asylum gdd.md",
     "/lore.md",
     "/game.md",
     "lore.md",
