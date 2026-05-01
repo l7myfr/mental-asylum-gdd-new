@@ -26,7 +26,13 @@ killers:
     • ability 1:  player swings the broken bottle and and if somebody is caught with it a animation will continue or else a fail animation will play
      • ability 2:  the character runs forward with the bottle positioned infront of him, if somebody is hit sprinting stops. the longer the rush slower the character turns. if he misses everyone blindness 2 is applied
      • ability 3:
-     
+
+
+   y: 
+    • main melee item for this character will be a broken bottle 
+    • ability 1:  player swings the broken bottle and and if somebody is caught with it a animation will continue or else a fail animation will play
+     • ability 2:  the character runs forward with the bottle positioned infront of him, if somebody is hit sprinting stops. the longer the rush slower the character turns. if he misses everyone blindness 2 is applied
+     • ability 3:
 survivors:
    security personnel:
       • Motion Sensor: can place a detector for when a killer walks past it the killer gets slowness 2 for 5 seconds and is revealed to security guard for 10 seconds. detector gets destroyed when used, multiple detectors are not allowed
