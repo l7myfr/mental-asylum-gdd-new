@@ -41,7 +41,8 @@ chainsaw dawg:
    animation: Blood Trails
       the character moves his hand up to his face and sniffs it and then enter back into the default idle
 
-      
+ animation: Overdrive
+      the character holds his hand which starts 
 
 
 2 m1's (both are streched out, dont make it like the normal battleground m1s which are fast, make these heavy)
