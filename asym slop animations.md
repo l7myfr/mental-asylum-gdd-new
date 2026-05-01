@@ -53,7 +53,11 @@ chainsaw dawg:
      the charcter slashes the saw blade from right to left with a diagonal slash, make it so at the end it kind of follows tru to convey that its heavy, make sure the saw is spinning
     
    animation: walk forward and back (strafe not needed)
-     the character is hunched forward while walking. make the shoulders uneven to convey that the saw blade is heavy, the steps are heavy when walkin
+     the character is hunched forward while walking. make the shoulders uneven to convey that the saw blade is heavy, the steps are heavy when walking
+
+ animation: run forward (strafe not needed, and back not needed)
+     the character is hunched forward while walking. make the shoulders uneven to convey that the saw blade is heavy, the steps are heavy when walking
+
 
      
 
