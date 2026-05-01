@@ -59,7 +59,7 @@ chainsaw dawg:
      the character is hunched forward while sprinting. make the right shoulder (where the saw blade is) swing less than the left shoulder, the steps are heavy when sprinting
      
 animation: finisher
-     the finisher continues from the m1 after the slash is completed
+     the finisher continues from the m1 after the slash is completed, the character moves the saw blade arm from left to right pushes the shoulder back and lunges forward and digs into the victim and turns on the sawblade which lasts for around 0.5-1 second and then go
 
      
 
