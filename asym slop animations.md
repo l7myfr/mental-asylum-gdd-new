@@ -29,6 +29,15 @@ patient zero:
     the character kind of goes numb and concentrates
 
 
+chainsaw dawg:
+   animation: Rev Charge Phase 1
+      the character enters a stance in which he revs his 
+
+   animation:  Contagion Mark
+     the character gets into a position which takes around 0.5-1.5 seconds, the character holds the broken bottle infront of him and starts rushing which lasts around 3.5 seconds and then stops.
+
+   animation: Sense
+    the character kind of goes numb and concentrates
 
 
 2 m1's (both are streched out, dont make it like the normal battleground m1s which are fast, make these heavy)
