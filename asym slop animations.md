@@ -39,7 +39,9 @@ chainsaw dawg:
       the character stops running and enters the default idle animation 
    
    animation: Blood Trails
-      the character moves his hand up to his face and sniffs 
+      the character moves his hand up to his face and sniffs it and then enter back into the default idle
+
+      
 
 
 2 m1's (both are streched out, dont make it like the normal battleground m1s which are fast, make these heavy)
