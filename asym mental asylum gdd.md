@@ -13,26 +13,12 @@ effects:
 3) speed reduction
 4) blindness
 killers:
-  patient zero: 
-    • main melee item for this character will saw blade
-    • Nullification: killer can go invisible for 10 seconds and back to visible at will
-      when going invisible or visible the player can not move
-      anybody within 10 stud radius gets their sanity drained a bit depending on distance
-     • Contagion Mark: hitting a survivor applies blindness 2 for 5 seconds and slowness 1 for 3 seconds and damages the player
-     • Sense: upon activation for 5 seconds anybody within 70 studs
-     player gets stunned when activating the power
-   hey: 
-    • main melee item for this character will be a broken bottle 
-    • ability 1:  player swings the broken bottle and and if somebody is caught with it a animation will continue or else a fail animation will play
-     • ability 2:  the character runs forward with the bottle positioned infront of him, if somebody is hit sprinting stops. the longer the rush slower the character turns. if he misses everyone blindness 2 is applied
-     • ability 3:
-
 
    y: 
     • main melee item for this character will be a saw blade attached to his arm
     • Rev Charge:  if you hold down the ability the player enters a stance and when release player starts rushing forward, the longer you press down more damage the rush does, max: 5 second hold. if missed the player gets slowness (stacked with how long they held the button down for)
      • Blood Trail:  after hitting somebody a player can activate this ability to see the location of the last person they hit. the trail lasts for 4 seconds
-     • ability 3:
+     • Sense: can track a player he last hit
 survivors:
    security personnel:
       • Motion Sensor: can place a detector for when a killer walks past it the killer gets slowness 2 for 5 seconds and is revealed to security guard for 10 seconds. detector gets destroyed when used, multiple detectors are not allowed
