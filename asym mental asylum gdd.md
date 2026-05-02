@@ -21,7 +21,7 @@ killers:
      • Sense: can track a player he last hit
 survivors:
    security personnel:
-      • Motion Sensor: can place a detector for when a killer walks past it the killer gets slowness 2 for 5 seconds and is revealed to security guard for 10 seconds. detector gets destroyed when used, multiple detectors are not allowed
+	      • Motion Sensor: can place a detector for when a killer walks past it the killer gets slowness 2 for 5 seconds and is revealed to security guard for 10 seconds. detector gets destroyed when used, multiple detectors are not allowed
       •  Surveillance Camera: can place a camera around the map and then access it by pressing the same keybind. player can retrive the camera by getting near it and aiming at it and pressing the same keybind. the camera can fly forth and back.
       Limited rotation
       
