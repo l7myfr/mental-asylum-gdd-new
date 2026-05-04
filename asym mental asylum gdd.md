@@ -26,7 +26,7 @@ survivors:
       Limited rotation
       
 
-spawning in/loading anim 
+spawning in/loading anim : 
 
 
 
