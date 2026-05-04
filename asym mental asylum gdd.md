@@ -26,7 +26,7 @@ survivors:
       Limited rotation
       
 
-spawning in/loading anim : player walks up to a roll up door and looks up and down and around, than knocks on the door and looks up on the door again and walks back, after that looks down and 
+spawning in/loading anim : player walks up to a roll up door and looks up and down and around, than knocks on the door and looks up on the door again and walks back, after that looks down and looks at the hatch of the roll up door then walks forwards, crouches down and tries to lift up the roll up door.
 
 
 
