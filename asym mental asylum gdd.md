@@ -26,6 +26,9 @@ survivors:
       Limited rotation
       
 
+spawning in/loading anim 
+
+
 
 idea spam:
 some kind of ability that is passed one to another via close contact for example: a trap akiller can setup and if a survivor steps on it and goes close to another player it wwill be passed, every tagged player is revealed briefly.
