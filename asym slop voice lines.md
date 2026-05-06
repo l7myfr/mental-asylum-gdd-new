@@ -3,5 +3,5 @@ sawblade:
    rev charge phase 3 (missed): "i meant to do that,", “lag. definitely lag.”, 
    blood trail: "I smell a rat", "red carpet of doom", "i love this smell. am i weird?", "I should NOT be allowed to do this"
    finisher: "Tag! you're it!", "this was easy", 
-   entrance: "i am so tired for this", "you know this used to be my favorite arm"
+   entrance: "i am so tired of this", "you know this used to be my favorite arm"
   
