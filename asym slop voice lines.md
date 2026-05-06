@@ -3,5 +3,5 @@ sawblade:
    rev charge phase 3 (missed): "i meant to do that,", “lag. definitely lag.”, 
    blood trail: "I smell a rat", "red carpet of doom",
    finisher: "Tag! you're it!", "this was easy", 
-   entrance:
+   entrance: "i am so tired for this", ""
   
