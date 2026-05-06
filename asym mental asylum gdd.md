@@ -19,7 +19,7 @@ killers:
     • main melee item for this character will be a saw blade attached to his arm
     • Rev Charge:  if you hold down the ability the player enters a stance and when release player starts rushing forward, the longer you press down more damage the rush does, max: 5 second hold. if missed the player gets slowness (stacked with how long they held the button down for)
      • Blood Trail:  after hitting somebody a player can activate this ability to see the location of the last person they hit. the trail lasts for 4 seconds
-     • Sense: can track a player he last hit
+
 survivors:
    security personnel:
 	 • Motion Sensor: can place a detector for when a killer walks past it the killer gets slowness 2 for 5 seconds and is revealed to security guard for 10 seconds. detector gets destroyed when used, multiple detectors are not allowed
