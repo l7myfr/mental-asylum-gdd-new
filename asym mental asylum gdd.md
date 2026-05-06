@@ -14,7 +14,7 @@ effects:
 4) blindness
 killers:
 
-   y: 
+   chainsaw: 
     • main melee item for this character will be a saw blade attached to his arm
     • Rev Charge:  if you hold down the ability the player enters a stance and when release player starts rushing forward, the longer you press down more damage the rush does, max: 5 second hold. if missed the player gets slowness (stacked with how long they held the button down for)
      • Blood Trail:  after hitting somebody a player can activate this ability to see the location of the last person they hit. the trail lasts for 4 seconds
