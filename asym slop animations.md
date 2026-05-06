@@ -42,9 +42,6 @@ chainsaw dawg:
    animation: Blood Trails
       the character moves his hand up to his face and sniffs it and then enter back into the default idle
       make sure the saw isnt spinning
-      
- animation: Overdrive
-      the character holds his hand which starts spinning extremely fast, make this intense and then there is a burst where the character does a stance and goes back to normal (i will provide pic)
   
   animation: Idle
 	the character is hunched forward like he is ready to lunge, the saw blade starts is stopped and sometimes abruptly starts spinning 
