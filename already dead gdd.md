@@ -6,4 +6,10 @@ althought im not sure how melee is gonna work
 
 items: 
 	primary:
-		
+		bennet
+	 secondary:
+		 crossbow
+		 bow
+	melee:
+		 knife,
+		 fists
