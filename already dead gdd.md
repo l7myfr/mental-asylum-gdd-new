@@ -20,5 +20,5 @@ assets needed:
 	animations:
 		movement:
 			walking, running (left, right, forward, backwards)
-			diving,
+			diving forward
 		
