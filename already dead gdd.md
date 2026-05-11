@@ -24,4 +24,6 @@ assets needed:
 			diving forward
 			crouching (left, right, forward, backwards)
 			proning (left, right, forward, backwards)
-		
+
+
+the lobby will look soemthing like the wolves hide out, like where gaby was and when she got in the back of the car yuh
