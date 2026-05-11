@@ -14,4 +14,4 @@ items:
 		 knife,
 		 fists
 
-in each duels players start with scraps, each duel will last until somebody reaches 5
+in each duels players start with scraps, each duel will last until somebody reaches 3 wins. after each win/loss the players are given scraps depending on how they played, if they wont lost and how many kills they got. with these sca
