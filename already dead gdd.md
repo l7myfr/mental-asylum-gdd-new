@@ -15,3 +15,8 @@ items:
 		 fists
 
 in each duels players start with scraps, each duel will last until somebody reaches 3 wins. after each win/loss the players are given scraps depending on how they played, if they wont lost and how many kills they got. with these scraps they are gonna be able to buy items to craft stuff when the match starts
+
+assets needed:
+	animations:
+		walking, running (left, right, forward, backwards)
+		
