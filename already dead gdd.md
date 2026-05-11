@@ -18,5 +18,7 @@ in each duels players start with scraps, each duel will last until somebody reac
 
 assets needed:
 	animations:
-		walking, running (left, right, forward, backwards)
+		movement:
+			walking, running (left, right, forward, backwards)
+			diving,
 		
