@@ -22,6 +22,6 @@ assets needed:
 		movement:
 			walking, running (left, right, forward, backwards)
 			diving forward
-			 crouching (left right forward backwards)
-			 proning (left, right, backawards, )
+			crouching (left, right, forward, backwards)
+			proning (left, right, forward, backwards)
 		
