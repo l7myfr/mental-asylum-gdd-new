@@ -13,3 +13,5 @@ items:
 	melee:
 		 knife,
 		 fists
+
+in each duels players start with scraps, each duel will last until somebody reaches 5
