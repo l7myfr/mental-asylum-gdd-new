@@ -16,11 +16,12 @@ items:
 
 in each duels players start with scraps, each duel will last until somebody reaches 3 wins. after each win/loss the players are given scraps depending on how they played, if they wont lost and how many kills they got. with these scraps they are gonna be able to buy items to craft stuff when the match starts
 
-players can pron
+players can prone and crouch, while in this state their aim becomes much more stable, while wlaking in prone and crouching and aiming their aim is still much more stable
 assets needed:
 	animations:
 		movement:
 			walking, running (left, right, forward, backwards)
 			diving forward
-			
+			 crouching (left right forward backwards)
+			 proning (left, right, backawards, )
 		
