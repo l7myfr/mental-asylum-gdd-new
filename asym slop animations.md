@@ -29,9 +29,37 @@ patient zero:
     the character kind of goes numb and concentrates
 
 
+chainsaw dawg:
+   animation: Rev Charge Phase 1
+      the character enters a stance in which he revs his saw blade while holding his right hand,
+      (make an idle animation aswell) make sure the saw is spinning
+   animation: Rev Charge Phase 2
+      the character runs forward with the saw blade infront of him which lasts 3-4 seconds 
+      make sure the saw is spinning
+   animation: Rev Charge Phase 3
+      the character stops running and enters the default idle animation 
+      make sure the saw stops spinning
+   animation: Blood Trails
+      the character moves his hand up to his face and sniffs it and then enter back into the default idle
+      make sure the saw isnt spinning
+  
+  animation: Idle
+	the character is hunched forward like he is ready to lunge, the saw blade starts is stopped and sometimes abruptly starts spinning 
+	
+  animation: m1 (a single m1)
+     the charcter slashes the saw blade from right to left with a diagonal slash, make it so at the end it kind of follows tru to convey that its heavy, make sure the saw is spinning
+    
+   animation: walk forward and back (strafe not needed)
+     the character is hunched forward while walking. make the shoulders uneven to convey that the saw blade is heavy, the steps are heavy when walking
 
+ animation: sprinting forward (strafe not needed, and back not needed)
+     the character is hunched forward while sprinting. make the right shoulder (where the saw blade is) swing less than the left shoulder, the steps are heavy when sprinting
+     
+  animation: finisher
+     the finisher continues from the M1 follow-through the character moves the saw blade arm from left to right pushes the shoulder back and lunges forward and digs into the victim and turns on the sawblade which lasts for around 0.5-1 second and then goes back to idle
 
-2 m1's (both are streched out, dont make it like the normal battleground m1s which are fast, make these heavy)
+   animation: entrance
+     the character is crouched and stands up, looks at his saw blade arm and then positions the saw blade arm infront of him which he briefly inspects and then goes back to idle
 
 walk forward, walk back
 sprint forward, sprint back

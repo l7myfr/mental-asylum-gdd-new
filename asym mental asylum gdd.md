@@ -13,29 +13,28 @@ effects:
 3) speed reduction
 4) blindness
 killers:
-  patient zero: 
-    • main melee item for this character will saw blade
-    • Nullification: killer can go invisible for 10 seconds and back to visible at will
-      when going invisible or visible the player can not move
-      anybody within 10 stud radius gets their sanity drained a bit depending on distance
-     • Contagion Mark: hitting a survivor applies blindness 2 for 5 seconds and slowness 1 for 3 seconds and damages the player
-     • Sense: upon activation for 5 seconds anybody within 70 studs
-     player gets stunned when activating the power
-   hey: 
-    • main melee item for this character will be a broken bottle 
-    • ability 1:  player swings the broken bottle and and if somebody is caught with it a animation will continue or else a fail animation will play
-     • ability 2:  the character runs forward with the bottle positioned infront of him, if somebody is hit sprinting stops. the longer the rush slower the character turns. if he misses everyone blindness 2 is applied
-     • ability 3:
-     
+
+   Killers: 
+     sawblade: 
+    • main melee item for this character will be a saw blade attached to his arm
+    • Rev Charge:  if you hold down the ability the player enters a stance and when release player starts rushing forward, the longer you press down more damage the rush does, max: 5 second hold. if missed the player gets slowness (stacked with how long they held the button down for)
+     • Blood Trail:  after hitting somebody a player can activate this ability to see the location of the last person they hit. the trail lasts for 4 seconds
+
 survivors:
    security personnel:
-      • Motion Sensor: can place a detector for when a killer walks past it the killer gets slowness 2 for 5 seconds and is revealed to security guard for 10 seconds. detector gets destroyed when used, multiple detectors are not allowed
+	 • Motion Sensor: can place a detector for when a killer walks past it the killer gets slowness 2 for 5 seconds and is revealed to security guard for 10 seconds. detector gets destroyed when used, multiple detectors are not allowed
       •  Surveillance Camera: can place a camera around the map and then access it by pressing the same keybind. player can retrive the camera by getting near it and aiming at it and pressing the same keybind. the camera can fly forth and back.
       Limited rotation
       
+
+spawning in/loading anim : player walks up to a roll up door and looks up and down and around, than knocks on the door and looks up on the door again and walks back, after that looks down and looks at the hatch of the roll up door then walks forwards, crouches down and tries to lift up the roll up door, which he struggles to roll up and then it suddenly budges enough for the character to prone and crawl under
+
 
 
 idea spam:
 some kind of ability that is passed one to another via close contact for example: a trap akiller can setup and if a survivor steps on it and goes close to another player it wwill be passed, every tagged player is revealed briefly.
 
 can take a picture with a camera and then teleport to that position
+
+• ability 1:  if you hold down the ability the player enters a stance and when release player starts rushing forward, the longer you press down more damage the rush does, max: 5 second hold
+ui idea: a bar in which a chainsaw rans tru
