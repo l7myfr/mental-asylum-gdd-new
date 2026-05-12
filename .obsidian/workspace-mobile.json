@@ -11,14 +11,17 @@
             "id": "b006ec817796a707",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "asym mental asylum gdd.md",
-                "mode": "preview",
-                "source": false
+                "file": "references/map 1.canvas",
+                "viewState": {
+                  "x": 45.03450499902931,
+                  "y": 302.18125441717524,
+                  "zoom": -1.4871213656442293
+                }
               },
-              "icon": "lucide-file",
-              "title": "asym mental asylum gdd"
+              "icon": "lucide-layout-dashboard",
+              "title": "map 1"
             }
           }
         ]
@@ -171,6 +174,7 @@
   },
   "active": "b006ec817796a707",
   "lastOpenFiles": [
+    "asym mental asylum gdd.md",
     "asym slop animations.md",
     "asym slop voice lines.md",
     "lore.md",
@@ -179,7 +183,6 @@
     "/asym slop animations.md",
     "/asym mental asylum gdd.md",
     "/already dead gdd.md",
-    "asym mental asylum gdd.md",
     "references/map 1.canvas",
     "/references/map 1.canvas",
     "references",
