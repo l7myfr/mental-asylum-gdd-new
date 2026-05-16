@@ -29,4 +29,4 @@ assets needed:
 
 the lobby will look soemthing like the wolves hide out, like where gaby was and when she got in the back of the car yuh
 
-i just wont let the player go backwwards and strafe while 
+i just wont let the player go backwwards and strafe while proned 
