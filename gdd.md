@@ -6,6 +6,9 @@ player movements: walk, run, crouch.
 
 loadout: primary gun, sidearm, utility, and an trait cards
 
+trait card set: passive/combat passives (player must choose either passive or combat passive, cant have both), 
+
+
 trait cards:
    
 
