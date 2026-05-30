@@ -4,7 +4,9 @@ this game definitly leans on the more "realistic" spectre but also cartoony, the
 
 player movements: walk, run, crouch.
 
-loadout: primary gun, sidearm, utility, and an ability cards (inspired by red dead online)
+loadout: primary gun, sidearm, utility, and an trait cards
+
+
 
 the game is in first person and also in third person (on shoulder) and camera angle can be changed by pressing q
 
