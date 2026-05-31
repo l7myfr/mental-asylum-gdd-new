@@ -8,10 +8,11 @@ loadout: primary gun, sidearm, utility, and an trait cards
 
 trait card set: can have 3 equipped at once
 
-traits can upgrade 3 times, which we will call 
+traits can upgrade 3 times, which we will call grades, grade 1, grade 2, grade 3 (weark->stronger)
 
+map will be close quarters
 trait cards:
-   
+	   
 
 
 the game is in first person and also in third person (on shoulder) and camera angle can be changed by pressing q
