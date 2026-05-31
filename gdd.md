@@ -6,8 +6,9 @@ player movements: walk, run, crouch.
 
 loadout: primary gun, sidearm, utility, and an trait cards
 
-trait card set: can have 4 equipped at once
+trait card set: can have 3 equipped at once
 
+traits can upgrade 3 times, which we will call 
 
 trait cards:
    
