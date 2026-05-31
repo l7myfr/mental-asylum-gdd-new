@@ -6,7 +6,7 @@ player movements: walk, run, crouch.
 
 loadout: primary gun, sidearm, utility, and an trait cards
 
-trait card set: 3 passives, sharp eye passive
+trait card set: can have 4 equipped at once
 
 
 trait cards:
