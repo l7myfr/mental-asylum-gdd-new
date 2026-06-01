@@ -10,9 +10,11 @@ trait card set: can have 3 equipped at once
 
 traits can upgrade 3 times, which we will call grades, grade 1, grade 2, grade 3 (weark->stronger)
 
+there is no sway to your weapon, and when u aim you slow down while walking and when you shoot your accuracy is better
+
 map will be close quarters
 trait cards:
-	
+	 
 
 
 the game is in first person and also in third person (on shoulder) and camera angle can be changed by pressing q
