@@ -17,7 +17,8 @@ trait cards:
 	ricochet: bullets have a chance of ricocheted of the walls, higher the grade the higher the chance. base chance: 10%. when ricocheted the bullet does lil damage
 	dexterity: can reload the gun faster
 	grip: reduces recoil
-	 
+	quickdraw: equips weapons faster
+	tracksta
 
 
 the game is in first person and also in third person (on shoulder) and camera angle can be changed by pressing q
