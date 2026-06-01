@@ -14,7 +14,7 @@ there is no sway to your weapon, and when u aim you slow down while walking and 
 
 map will be close quarters
 trait cards:
-	 
+	rickashee
 
 
 the game is in first person and also in third person (on shoulder) and camera angle can be changed by pressing q
