@@ -15,7 +15,8 @@ there is no sway to your weapon, and when u aim you slow down while walking and 
 map will be close quarters
 trait cards:
 	ricochet: bullets have a chance of ricocheted of the walls, higher the grade the higher the chance. base chance: 10%. when ricocheted the bullet does lil damage
-	fast hands: 
+	dexterity: can reload the gun faster
+	
 
 
 the game is in first person and also in third person (on shoulder) and camera angle can be changed by pressing q
