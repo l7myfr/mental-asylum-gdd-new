@@ -18,7 +18,8 @@ trait cards:
 	dexterity: can reload the gun faster
 	grip: reduces recoil
 	quickdraw: equips weapons faster
-	tracksta
+	trackstar: runs faster
+	
 
 
 the game is in first person and also in third person (on shoulder) and camera angle can be changed by pressing q
