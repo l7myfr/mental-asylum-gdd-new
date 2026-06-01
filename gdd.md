@@ -12,7 +12,7 @@ traits can upgrade 3 times, which we will call grades, grade 1, grade 2, grade 3
 
 map will be close quarters
 trait cards:
-	   
+	
 
 
 the game is in first person and also in third person (on shoulder) and camera angle can be changed by pressing q
