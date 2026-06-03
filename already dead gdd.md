@@ -1,4 +1,4 @@
-this game is gonna be somehting like the last of us, player will be able to craft, jump like elies in tlou 2.
+this game is gonna be somehting like the last of us, player will be able to craft, jump like elies in tlou 2. and tlou factions
 players will be able to do stealth kiills (hopefully idk).
 the ammo will be limited and players will carry a gun, a secondary gun (like a bow or somehting) and a melee.
 
@@ -24,6 +24,9 @@ assets needed:
 			diving forward
 			crouching (left, right, forward, backwards)
 			proning (left, right, forward, backwards)
+			idle
 
 
 the lobby will look soemthing like the wolves hide out, like where gaby was and when she got in the back of the car yuh
+
+i just wont let the player go backwwards and strafe while proned 
