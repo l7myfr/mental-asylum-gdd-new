@@ -12,7 +12,7 @@ traits can upgrade 3 times, which we will call grades, grade 1, grade 2, grade 3
 
 there is no sway to your weapon, and when u aim you slow down while walking and when you shoot your accuracy is better
 
-map will be close quarters
+
 trait cards:
 	ricochet: bullets have a chance of ricocheted of the walls, higher the grade the higher the chance. base chance: 10%. when ricocheted the bullet does lil damage
 	dexterity: can reload the gun faster
