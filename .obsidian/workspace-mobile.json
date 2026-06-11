@@ -11,17 +11,14 @@
             "id": "b006ec817796a707",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "references/map 1.canvas",
-                "viewState": {
-                  "x": 45.03450499902931,
-                  "y": 302.18125441717524,
-                  "zoom": -1.4871213656442293
-                }
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "map 1"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -174,6 +171,16 @@
   },
   "active": "b006ec817796a707",
   "lastOpenFiles": [
+    "references/map 1.canvas",
+    "Untitled.md",
+    "/Untitled.md",
+    "/gdd.md",
+    "gdd.md",
+    "gdd fps.md",
+    "dumb bitch cooking.md",
+    "/gdd fps.md",
+    "/already dead gdd.md",
+    "/dumb bitch cooking.md",
     "asym mental asylum gdd.md",
     "asym slop animations.md",
     "asym slop voice lines.md",
@@ -182,8 +189,6 @@
     "/asym slop voice lines.md",
     "/asym slop animations.md",
     "/asym mental asylum gdd.md",
-    "/already dead gdd.md",
-    "references/map 1.canvas",
     "/references/map 1.canvas",
     "references",
     "/references",
