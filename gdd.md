@@ -20,8 +20,10 @@ trait cards:
 	quickdraw: equips weapons faster
 	trackstar: runs faster
 
-when player dies 
-crafting:
+when player dies in a match they get to keep whatever materials they collected.
+
+crafting: players can craft ammo, molotov, medkits, etc
+
 
 
 the game is in first person and also in third person (on shoulder) and camera angle can be changed by pressing q
