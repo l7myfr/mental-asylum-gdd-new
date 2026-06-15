@@ -24,7 +24,7 @@ when player dies in a match they get to keep whatever materials they collected.
 
 o
 crafting: players can craft ammo, molotov, medkits, etc
-(idkk if im gonna add crafting bc like, it might overcomplicate having traits AND crafitng. or img onna switch traits with )
+(idkk if im gonna add crafting bc like, it might overcomplicate having traits AND crafitng. or img onna switch traits with crafitng idk)
 
 
 the game is in first person and also in third person (on shoulder) and camera angle can be changed by pressing q
