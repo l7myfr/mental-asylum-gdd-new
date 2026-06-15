@@ -29,5 +29,9 @@ crafting: players can craft ammo, molotov, medkits, etc
 
 the game is in first person and also in third person (on shoulder) and camera angle can be changed by pressing q
 
+currency: 
+   scraps: earned by simply playing the gamme
+	black cards: earned by quests and comp
+
 for lobby, 
 i imagine the players are in like the hideout of fireflies (the stadium or wahtever it was honestly) and players get onto the back of the tracks that gaby and others got on 
