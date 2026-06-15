@@ -19,7 +19,9 @@ trait cards:
 	grip: reduces recoil
 	quickdraw: equips weapons faster
 	trackstar: runs faster
-	
+
+when player dies 
+crafting:
 
 
 the game is in first person and also in third person (on shoulder) and camera angle can be changed by pressing q
