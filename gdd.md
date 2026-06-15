@@ -31,7 +31,7 @@ the game is in first person and also in third person (on shoulder) and camera an
 
 currency: 
    scraps: earned by simply playing the gamme
-	black cards: earned by quests and comp
+   black cards: earned by quests and robux
 
 for lobby, 
 i imagine the players are in like the hideout of fireflies (the stadium or wahtever it was honestly) and players get onto the back of the tracks that gaby and others got on 
