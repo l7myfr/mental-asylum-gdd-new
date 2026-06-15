@@ -22,6 +22,7 @@ trait cards:
 
 when player dies in a match they get to keep whatever materials they collected.
 
+o
 crafting: players can craft ammo, molotov, medkits, etc
 
 
