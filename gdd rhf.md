@@ -8,4 +8,9 @@ when a match spawns the following happens:
   after that a killer spawns
   killer is supposed to find all players and kill them with a melee item
 
-killer has a melee item su
+killer has a melee item such as a fire axe and a grapple, which when hits a entity or ap layer gets dragged toards the killer. 
+
+survivors must survive till the end of game
+
+survivor can: Walk, crouch, prone (cant run)
+killer can: run, walk, crouch,prone
