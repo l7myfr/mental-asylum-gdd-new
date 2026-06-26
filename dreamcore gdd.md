@@ -1,1 +1,1 @@
-you start 
+the main game (teleported from lobby): its a room, kind of like a bedroom, its decorated like a room. 
