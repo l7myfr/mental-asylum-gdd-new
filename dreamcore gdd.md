@@ -3,4 +3,6 @@ its a room, kind of like a bedroom, its decorated like a room. for players to be
 
 you travel tru dreams, but there are chances of it being a nightmare. these nightmares are harder to beat, chances of you dying. to beat a nightmare level, you must find an escape. maybe across the map, or maybe by completing a quest
 
-for normal dreamsm 
+for normal dreams you must complete a quest to go back.
+
+level changes each time you come back.
