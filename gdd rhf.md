@@ -1,12 +1,12 @@
-its basically rhf but the killer has a melee item lol. 
-killer has a melee item, also is fast
 
-add dumb and funny emotes like a megaphone
+killer has a melee item and a gun, also is faster WHEN holding a melee.
+
+
 
 when a match spawns the following happens:
   all players are teleported to a map and are given 1 minute to hide.
   after that a killer spawns
-  killer is supposed to find all players and kill them with a melee item
+  killer is supposed to find all players and kill them with a melee item and a gun item
 
 killer has a melee item such as a fire axe
 
