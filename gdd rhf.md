@@ -2,7 +2,7 @@
 killer has a melee item and a gun, also is faster WHEN holding a melee.
 
 
-
+add funny emotes, like a megaphone that amplifies vc
 when a match spawns the following happens:
   all players are teleported to a map and are given 1 minute to hide.
   after that a killer spawns
