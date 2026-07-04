@@ -6,7 +6,8 @@ gdd 3 expanded:
      taco: to serve it put it in the microwave to defrost cus its frozen
      hotdog: take hotdog from the hotdog roller but it in bread 
      sandwich: meat, cheese, bread, vegetables 
-     pizza: is
+     pizza: is frozen.
+     
  everything that has bread or something is called bread and is used for everything. meat too.
  you have to cook meat but you do minigame
  vegetables basically are toa mtoes and everything. all in one, not separate 
