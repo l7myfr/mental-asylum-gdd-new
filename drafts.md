@@ -5,4 +5,6 @@ gdd 3 expanded:
      we can add likke weather and stuff outside, like rain and when its raining some stuffh appen
      taco: to serve it put it in the microwave to defrost cus its frozen
      hotdog: take hotdog from the hotdog roller but it in bread 
- everything that has bread or something 
+     sandwich: meat, cheese, bread
+ everything that has bread or something is called bread and is used for everything. meat too.
+ you have to cook meat but you do minigame
