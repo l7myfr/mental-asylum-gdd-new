@@ -14,5 +14,4 @@ basically there are 2 sides
 your side and the opposite side 
 you are able to place towers on your side of the plane
 the enemies spawn from the other side and walks towards your base
-
-[[Drawing 2026-07-11 00.15.53.excalidraw]]
+![[Desktop 2026.07.11 - 01.45.02.02.mp4]]
