@@ -8,3 +8,4 @@ these spawns spawn in the enemies they are specified to
 the other side also spawns in enemies but they walk out from the building they are defending
 first to destroy a building wins
 inspired by pop a vballon
+[[Drawing 2026-07-11 00.15.53.excalidraw]]
