@@ -1,1 +1,1 @@
-players go to diff places and mine rocks, when mining those rocks get smaller and smaller and slowly reveals an artifact, you than take it to your mesuem and dispaly it for everyone.
+players go to diff places and mine rocks, when mining those rocks get smaller and smaller and slowly reveals an artifact, you than take it to your mesuem and dispaly it for everyone. inspired by digseum
