@@ -3,4 +3,8 @@ players go to diff places and mine rocks, when mining those rocks get smaller an
 
 basically there are 2 sides 
 your side and the opposite side 
-you are able to place spawns 
+you are able to place spawns on your side of the plane
+these spawns spawn in the enemies they are specified to
+the other side also spawns in enemies but they walk out from the building they are defending
+first to destroy a building wins
+inspired by pop a vballon
