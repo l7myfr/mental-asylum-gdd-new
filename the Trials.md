@@ -11,18 +11,26 @@ Obstacles are **challenges, not platforming**. Each one is a self-contained aren
 - Each round picks a **random number of obstacles within a range**. Range TBD.
 - One shared tower per server. Everyone climbs the same structure at the same time.
 - A staircase at the end of each obstacle leads up to the next one.
+
+## Players are spread across the tower
+
+Players climb at their own pace. The fast ones are several floors up while others are still working on a floor below, so **no obstacle can assume who else is in the room**.
+
+- **Never soft lock a floor behind you.** An obstacle you have already cleared keeps running for whoever is still on it. Floors do not shut down, lock, or reset out from under a straggler, and arriving late is never an instant loss.
+- **Every obstacle must be beatable alone.** No obstacle may require a second player to be present — no simultaneous levers, no passing something between players, no "fewer slots than players".
+- **Rules run on a loop, not as a one-shot event.** A floor cycles its rule continuously so a player who walks in at any moment gets a fresh, full attempt at it.
+- Other players in the room may make a floor *easier or harder to read* — that is fine and good. They may never be **required** for it to be solvable.
 ## Obstacles
   - tower, a npc is on a high ground at the end of the obstacle and whne playes enter the obstacle at the start they have to hide behind diff objects while the npc shoots at them.
   - red light green light, basically the players start at the start and make their way to the end while a light that turns red and green, if player moves while light is red they die.
-  - glass bridge, two rows of panels span a gap to the exit. one panel of each pair holds, the other shatters. players pick a side and step across, and a wrong panel drops them out. whoever goes first pays for the information everyone behind them gets.
-  - color call, the floor is a grid of colored tiles. a color is called out, a few seconds later every tile that is not that color falls away. be standing on the called color when the buzzer hits or you go down with the floor.
-  - quiz gates, a question shows on a screen at the start and a row of gates at the far end, one per answer. everyone runs for the gate they think is right before the timer runs out. wrong gate or no gate and you are out.
-  - minefield, the safe path across a tiled floor lights up for a few seconds at the start and then goes dark. players have to memorize it and walk it. stepping on a wrong tile kills.
-  - searchlights, the arena is dark and sweeping lights roam the floor. get caught in a beam and you are out. players have to time the gaps to reach the far side.
-  - musical pads, a ring of safe pads with fewer pads than players. a buzzer goes off at random intervals and anyone not standing on a pad is eliminated, then pads are removed and it runs again until the count is thin enough.
-  - hot potato, one player starts marked with a bomb and passes it by touching another player. when the timer hits zero whoever is holding it is eliminated. runs several times in a row.
-  - gas room, gas rises from the floor while the exit door stays locked behind several levers spread around the arena that have to be held at the same time. players either cooperate or drown in it.
-  - sweeper, a rotating arm circles the arena alternating between low and high passes. players duck or jump it and have to survive a set number of rotations before the exit opens.
+  - glass bridge, two rows of panels span a gap to the exit. one panel of each pair holds, the other shatters. players pick a side and step across, and a wrong panel drops them out. broken panels stay broken, so whoever goes first pays for information everyone behind them gets. the pattern reshuffles on a timer so a late arrival still gets a real bridge to solve.
+  - color call, the floor is a grid of colored tiles. a color is called out, a few seconds later every tile that is not that color falls away and then the floor rebuilds. be standing on the called color when the buzzer hits or you go down with it. runs on a loop forever.
+  - quiz gates, a question shows on a screen at the start and a row of gates at the far end, one per answer. run for the gate you think is right before the timer runs out. wrong gate or no gate and you are out. a new question comes up every cycle, so whenever you walk in you get a whole one.
+  - minefield, the safe path across a tiled floor lights up for a few seconds and then goes dark. memorize it and walk it. stepping on a wrong tile kills. the path relights on a cycle and picks a new route each time it does.
+  - searchlights, the arena is dark and sweeping lights roam the floor on a fixed patrol. get caught in a beam and you are out. time the gaps to reach the far side. the patrol never stops, so it is the same problem whenever you arrive.
+  - dodge pads, a floor of pads that light up in warning and then fire whoever is standing on them. the lit set changes every beat and speeds up the longer you are in the room. survive to the exit. one player or ten, the floor does not care.
+  - gas room, gas rises from the floor while the exit stays locked behind a lever. the lever is across the room and pulling it opens the exit for a few seconds before it shuts again. get there and back through the door before the gas takes you. the room vents and resets itself after each cycle.
+  - sweeper, a rotating arm circles the arena alternating between low and high passes. duck or jump it and survive a set number of rotations before the exit opens. the arm never stops turning.
     
 ## Failure
 
