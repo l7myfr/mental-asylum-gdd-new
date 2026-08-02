@@ -1,4 +1,3 @@
-# The Trials
 
 ## Core loop
 
