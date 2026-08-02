@@ -12,7 +12,8 @@ Obstacles are **challenges, not platforming**. Each one is a self-contained aren
 - One shared tower per server. Everyone climbs the same structure at the same time.
 - A staircase at the end of each obstacle leads up to the next one.
 ## Obstacles
-  - tower, a npc is on a high ground 
+  - tower, a npc is on a high ground at the end of the obstacle and whne playes enter the obstacle at the start they have to hide behind diff objects while the npc shoots at them.
+  - red light green light, basically the players start at the start and make their way to the end while a light that turns 
 ## Failure
 
 **Fail a challenge and you are eliminated for the round.** No retries, no checkpoints. The field thins as the tower goes up.
