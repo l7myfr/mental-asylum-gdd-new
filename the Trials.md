@@ -1,7 +1,7 @@
 
 ## Core loop
 
-Every round a randomly generated trial starts, built from preset obstacles. When you reach the end of an obstacle you climb a stair placed at its end. Obstacles are stacked on top of each other, so the trial is a tower you ascend.
+Every round a randomly generated trial starts, built from preset obstacles. When you reach the end of an obstacle you climb a ladder placed at its end. Obstacles are stacked on top of each other, so the trial is a tower you ascend.
 
 ## Obstacle Rules
 
@@ -10,7 +10,7 @@ Obstacles are **challenges, not platforming**. Each one is a self-contained aren
 - Obstacles are pre-built prefabs, not procedurally shaped. The randomness is in **which ones appear and in what order**.
 - Each round picks a **random number of obstacles within a range**. Range TBD.
 - One shared tower per server. Everyone climbs the same structure at the same time.
-- A staircase at the end of each obstacle leads up to the next one.
+- A ladder at the end of each obstacle leads up to the next one.
 
 ## Players are spread across the tower
 
@@ -24,9 +24,9 @@ Players climb at their own pace. The fast ones are several floors up while other
 
 Because a floor never stops running, its completion condition has to belong to the **individual player**, not to the room. Every obstacle is one of two shapes:
 
-**Traversal floors** — the win is physical. Get from the entry to the exit alive, and the staircase *is* the exit. Nothing to track: standing on the stairs means you cleared it. Most obstacles are this.
+**Traversal floors** — the win is physical. Get from the entry to the exit alive, and the ladder *is* the exit. Nothing to track: getting on the ladder means you cleared it. Most obstacles are this.
 
-**Endurance floors** — the rule has no finish line, so the win is a count. Survive a set number of cycles of the rule and the staircase opens for you. The count starts the moment **you** walked in, so someone who entered three cycles after you still has three cycles left when you leave.
+**Endurance floors** — the rule has no finish line, so the win is a count. Survive a set number of cycles of the rule and the ladder opens for you. The count starts the moment **you** walked in, so someone who entered three cycles after you still has three cycles left when you leave.
 
 Endurance floors need a **personal gate** at the staircase — a barrier that only lets through players who have met their own count. Without it a late arrival just tails someone who earned it and skips the floor. Players should be able to see their own progress toward the count while they are in the room, otherwise surviving feels aimless.
 
