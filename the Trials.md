@@ -24,17 +24,8 @@ A round ends one of two ways:
 1. **Everyone is eliminated** — nobody reaches the top.
 2. **Survivors reach the summit and fight it out** — the players who clear every obstacle face each other, and that decides the winner.
 
-## Open questions
-
-- What is the summit fight? Last player standing, another challenge, weapons?
-- How many obstacles per round — what is the range?
-- What is in the obstacle pool? Need at least 3–4 distinct challenges for random ordering to matter.
-- Rewards and progression between rounds.
-- Setting and theme — is this in the asylum fiction or standalone?
-- What happens to eliminated players — spectate, lobby, wait out the round?
-
 ## Technical direction
 
 Built on **Fremy**. Each obstacle should be a swappable module behind a shared interface — start, stop, eliminate a player, report completion — so the round generator can stack them without special-casing any one challenge.
 
-> Not related to the tree / lumberjack game. That is a separate, older project.
+
