@@ -1,0 +1,1 @@
+basically you and  your friends are tasked to destroy a procedually generated office, its like doors you slowly progress, when u destroy stuff u gain materials, you can craft shit using materials, on your way tru the doors you encounter 
