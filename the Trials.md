@@ -43,7 +43,7 @@ Traversal floors need no gate, but their exit must stay open permanently — it 
   - dodge pads, a floor of pads that light up in warning and then fire whoever is standing on them. the lit set changes every beat and speeds up the longer you are in the room. one player or ten, the floor does not care. traversal, win by crossing the pad floor to the exit.
   - gas room, gas rises from the floor while the exit stays locked behind a lever. the lever is across the room and pulling it opens the exit for a few seconds before it shuts again. get there and back through the door before the gas takes you. the room vents and resets itself after each cycle. traversal, win by getting through the door while it is open.
   - sweeper, a rotating arm circles the arena alternating between low and high passes. duck or jump it. the arm never stops turning. endurance, survive a set number of rotations counted from when you entered and your gate to the ladder opens.
- -billiard basically a map 
+ -  billiard basically a map with pool balls and they randomly get forced applied to them, if u get hit force is applied to you and u also ragdoll. the balls are big and the pool holes are
 ## Failure
 
 **Fail a challenge and you are eliminated for the round.** No retries, no checkpoints. The field thins as the tower goes up.
